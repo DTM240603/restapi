@@ -1,0 +1,36 @@
+{
+	"posts":[
+		{
+			"id": 1,
+			"title" : "Cách nấu phở bò truyền thống",
+			"body"	: "Hướng dẫn chi tiết cách nấu phở bò truyền thống"
+		},
+		{
+			"id": 2,
+			"title" : "Du lịch Đà Lạt",
+			"body"	: "Kinh nghiệm du lịch Đà Lạt"
+		},
+		{
+			"id": 3,
+			"title" : "Hướng dẫn sử dụng flutter",
+			"body"	: ""
+		}
+	],
+	
+	"users" : [
+		{
+			"username" : "minh",
+			"password" : "aggeascsw",
+			"fullname"	: "Đinh Tuấn Minh"
+			
+		}
+		{
+			"username" : "A",
+			"password" : "aggrgntscsw",
+			"fullname" : "Nguyễn Văn A"
+			
+			
+		}
+	]
+	
+}
